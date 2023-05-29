@@ -2,7 +2,7 @@ Proceso Laboratorio2
 	definir resultado, resultado2, resultado3, resultado4, resultado5 Como Real
 	definir x, x2, z1, z2, z3, z4 como real
 	
-//Desarrolle un algoritmo que permita calcular el perímetro y el área de un triángulo equilátero.	
+//Desarrolle un algoritmo que permita calcular el perÃ­metro y el Ã¡rea de un triÃ¡ngulo equilÃ¡tero.	
 	Mostrar "Ingrese el lado de su triangulo equilatero para saber el perimetro y el area"
 	leer x 
 	resultado = x*3
@@ -12,13 +12,13 @@ Proceso Laboratorio2
 	resultado3 = (x*resultado2)/2
 	Mostrar "El area es " resultado3
 	
-//Desarrolle un algoritmo que permita calcular el valor absoluto de número.	
+//Desarrolle un algoritmo que permita calcular el valor absoluto de nÃºmero.	
 	Mostrar "Ingrese el numero para saber el valor absoluto"
 	leer x
 	resultado3 = abs(x)
 	Mostrar "El valor absoluto es " resultado3
 	
-//Desarrolle un algoritmo que indique si un número es divisible por 7
+//Desarrolle un algoritmo que indique si un nÃºmero es divisible por 7
 	Mostrar "Ingrese su numero para saber si es divisible por 7"
 	leer x
 	Si x % 7 = 0 Entonces
